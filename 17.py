@@ -1,4 +1,4 @@
-####### Решение Excel: drive.google.com/drive/folders/1Hg_qDNTp30HBleRp4l0wzJ95IdjdAqdv
+####### Решение Excel: https://1drv.ms/u/s!AhPh6fChsIkYbrlui7-O8Nk56vQ?e=OsLoFS
 f = open('17.txt')
 a = [int(i.strip()) for i in f]
 
